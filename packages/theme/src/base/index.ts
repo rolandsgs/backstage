@@ -20,6 +20,7 @@ export { colorVariants, genPageTheme, pageTheme, shapes } from './pageTheme';
 export { palettes } from './palettes';
 export type {
   BackstagePaletteAdditions,
+  BackstageThemeAdditions,
   PageTheme,
   PageThemeSelector,
 } from './types';
